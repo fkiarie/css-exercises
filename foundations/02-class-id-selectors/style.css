@@ -1,8 +1,9 @@
 .pink{
-    background-color: pink;
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #blue-text{
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: large;
 }
 #cooler{
