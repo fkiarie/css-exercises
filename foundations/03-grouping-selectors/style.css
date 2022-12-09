@@ -1,0 +1,16 @@
+.button-one, 
+.button-two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 200;
+    padding: auto;
+    margin: auto;
+}
+.button-one{
+    background-color: black;
+    color: rgb(240, 244, 247);
+}
+.button-two{
+    background-color: #ffff00;
+    color: rgb(14, 13, 13);
+}
